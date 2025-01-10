@@ -20,7 +20,7 @@
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
   ],
   "sideEffects": false,
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
